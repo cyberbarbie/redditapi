@@ -1,0 +1,11 @@
+{
+  "name": "reddit",
+  "version": "1.0.0",
+  "description": "Reddit search app made with ES6 & Fetch API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tae'lur Alexis",
+  "license": "ISC"
+}
